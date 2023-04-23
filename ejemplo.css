@@ -1,0 +1,52 @@
+h1{
+    color: beige; /*comentario css - color de la tipografia*/
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(177, 145, 207);
+    text-align: center;
+}
+
+p{
+color: red;
+
+}
+.destacados{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+H1, H3, H4 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+img {
+    width: 30%;
+    margin: auto;
+    position: relative;
+}
+
+
+#contenedor{
+	border:1px solid #aaa;
+	background-color: #dddddd;
+	/* position: static; */
+	margin:0 auto;
+	width: 60%;
+	height: 500px;
+	}
+
+.item{
+	background-color: #ccc;
+	width: 300px;
+	height: 100px;
+	margin: 10px;
+	font-size: 30px;
+}
+
+P{
+    color: black;
+
+}
+h3{
+    text-align: center;
+}
